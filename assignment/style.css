@@ -9,3 +9,43 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+body {
+    font-family: Palatino, URW Palladio L, serif;
+    color: rgba(255, 140, 0, 0.915);
+    background-image: url(https://devbeep.com/wp-content/uploads/2021/06/ffffffffffffffffffffffffffffffffffffffff.png.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    padding: 15px;
+    text-align: center
+    
+}
+
+
+h1 {
+    font-family: Luminari, fantasy;
+    text-shadow: 4px 4px black;
+    text-align: center;
+    color: #eb9035cf;
+    font-size: 65px
+    
+   
+}
+
+
+p {
+    text-align: center;
+    color: #cc7e00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+  }
+
+.scarecrow {
+    border: thick solid #bf7642;
+    padding: 5px;
+  }
+
+.list {
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
